@@ -49,8 +49,8 @@ elif percentage >= 45:
     result = "Pass"
     grade = "D"
 else:
-    result = "Pass"
-    grade = "E"
+    result = "Fail"
+    grade = "F"
 
 # Display marksheet
 print("\n========== MARKSHEET ==========")
